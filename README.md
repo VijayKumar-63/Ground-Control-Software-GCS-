@@ -1,1 +1,0 @@
-# Cansat-and-Cubesat-satellite-Project
