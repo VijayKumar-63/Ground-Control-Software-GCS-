@@ -1,4 +1,4 @@
-# ISL Ground Control Software (GCS)
+# Ground Control Software (GCS)
 
 A single-page **Ground Control Software** dashboard for a CanSat mission, built for the **India Space Lab** brief issued under **Bharat Antariksh Sapataah / India Space Week**.
 
